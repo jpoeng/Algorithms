@@ -2,6 +2,6 @@
 
 Intended for daily algorithm practice. Source of exercises can be found [here](https://projecteuler.net).
 
-Date Started: 10/29/15
+521 exercises
 
-As of 11/22/15, completed 4/521 exercises.
+Date Started: 10/29/15
