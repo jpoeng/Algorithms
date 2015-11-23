@@ -1,10 +1,9 @@
-=begin
+########### PROBLEM 4: LARGEST PALINDROME PRODUCT ###########
+# A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+# Find the largest palindrome made from the product of two 3-digit numbers.
 
-A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 
-Find the largest palindrome made from the product of two 3-digit numbers.
-
-Pseudocode
+########### PSEUDOCODE ###########
 Input: 100..999
 Output: palindrome
 
@@ -27,15 +26,14 @@ def a method 'palindrome?' that takes 'test_value' as its input
   return true if 'test_value' equals the reverse of 'test_value'
 end
 
-
 set counter i=0
 
-=end
+
+########### SOLUTION ###########
 def palindrome?(test_value)
   test_value = test_value.to_s
   test_value == test_value.reverse
 end
-
 
 def find_palindrome(range)
   i = 0
@@ -52,7 +50,8 @@ def find_palindrome(range)
     return palindrome.sort.pop
 end
 
-# Driver Tests
+
+########### DRIVER TESTS ###########
 range = (100..999)
 p find_palindrome(range)
 

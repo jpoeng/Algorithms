@@ -1,8 +1,9 @@
+########### PROBLEM 1: MULTIPLES OF 3 AND 5 ###########
 # If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-
 # Find the sum of all the multiples of 3 or 5 below 1000.
 
-# Pseudocode
+
+########### PSEUDOCODE ###########
 # input: list of numbers from 1 through 100
 # output: sum of numbers that are divisiby by 3 or 5
 
@@ -15,7 +16,8 @@
 
 # return sum of multiples
 
-# Initial Solution
+
+########### INITIAL SOLUTION ###########
 def sum_multiples_of_threes_fives(range)
   multiples=[]
   for i in range
@@ -33,7 +35,8 @@ end
 
 sum_multiples_of_threes_fives(1...1000)
 
-# Refactored Solution
+
+########### REFACTORED SOLUTION ###########
 def sum_multiples_of_threes_fives(range)
   multiples=[]
   for i in range
