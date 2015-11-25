@@ -4,5 +4,5 @@
 ### Source
 [Project Euler, Problem 5](https://projecteuler.net/problem=5)
 
-### References:
+### References
 + https://en.wikipedia.org/wiki/Primality_test (Primality Test and Trial Division)

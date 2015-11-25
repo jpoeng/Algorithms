@@ -4,7 +4,7 @@ Intended for daily algorithm practice.
 This is a collection of common algorithm problems from various sources solved in Ruby and/or JavaScript. The majority of solutions include driver tests located at the end of each file. Simply run them with the program or comment them out. All tests should return true.
 
 # Problems
-## Solved
+### Solved
 + [Multiples of 3 and 5](Multiples_of_3_and_5)
 + [Even Fibonacci Numbers](Even_Fibonacci_Numbers)
 + [Largest Prime Factor](Largest_Prime_Factor)
