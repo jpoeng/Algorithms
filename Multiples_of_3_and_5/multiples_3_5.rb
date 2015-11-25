@@ -30,10 +30,10 @@ def sum_multiples_of_threes_fives(range)
   multiples.each do |num|
     sum+=num
   end
-  p sum
+  sum
 end
 
-sum_multiples_of_threes_fives(1...1000)
+p sum_multiples_of_threes_fives(1...1000) == 233168
 
 
 ########### REFACTORED SOLUTION ###########
@@ -46,4 +46,5 @@ def sum_multiples_of_threes_fives(range)
   multiples.inject { |sum, num| sum + num }
 end
 
-p sum_multiples_of_threes_fives(1...1000)
+########### DRIVER TESTS ###########
+p sum_multiples_of_threes_fives(1...1000) == 233168

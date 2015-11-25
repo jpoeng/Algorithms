@@ -40,7 +40,7 @@ for i in range
   end
 end
 
-p  even_fibonacci_numbers.inject { |sum, num| sum+=num }
+p even_fibonacci_numbers.inject { |sum, num| sum+=num } == 4613732
 
 
 ########### REFACTORED SOLUTION ###########
