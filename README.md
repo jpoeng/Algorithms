@@ -5,18 +5,18 @@ This is a collection of common algorithm problems from various sources solved in
 
 # Problems
 ## Solved
-+ [Multiples of 3 and 5](multiples_of_3_and_5)
-+ [Even Fibonacci Numbers](even_fibonacci_numbers)
-+ [Largest Prime Factor](largest_prime_factor)
-+ [Largest Palindrome Product](largest_palindrome_product)
++ [Multiples of 3 and 5](Multiples_of_3_and_5)
++ [Even Fibonacci Numbers](Even_Fibonacci_Numbers)
++ [Largest Prime Factor](Largest_Prime_Factor)
++ [Largest Palindrome Product](Largest_Palindrome_Product)
 
 ### In Progress
-+ [Smallest Multiple](smallest_multiple)
-+ [Sum Square Difference](sum_square_difference)
-+ [10001st Prime](10001st_prime)
-+ [Largest Product in a Series](largest_product_in_a_series)
-+ [Special Pythagorean Triplet](special_pythagorean_triplet)
-+ [Summation of Primes](summation_of_primes)
++ [Smallest Multiple](Smallest_Multiple)
++ [Sum Square Difference](Sum_Square_Difference)
++ [10001st Prime](10001st_Prime)
++ [Largest Product in a Series](Largest_Product_in_a_Series)
++ [Special Pythagorean Triplet](special_Pythagorean_Triplet)
++ [Summation of Primes](summation_of_Primes)
 
 ## Resources
 + [Project Euler](https://projecteuler.net/)
