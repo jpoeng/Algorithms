@@ -15,8 +15,8 @@ This is a collection of common algorithm problems from various sources solved in
 + [Sum Square Difference](Sum_Square_Difference)
 + [10001st Prime](10001st_Prime)
 + [Largest Product in a Series](Largest_Product_in_a_Series)
-+ [Special Pythagorean Triplet](special_Pythagorean_Triplet)
-+ [Summation of Primes](summation_of_Primes)
++ [Special Pythagorean Triplet](Special_Pythagorean_Triplet)
++ [Summation of Primes](Summation_of_Primes)
 
 ## Resources
 + [Project Euler](https://projecteuler.net/)
